@@ -1,0 +1,5 @@
+data_link1 : https://www.kaggle.com/ikarus777/best-artworks-of-all-time/downloads/best-artworks-of-all-time.zip/1
+data_link2 : https://www.kaggle.com/keras/vgg19/downloads/vgg19.zip/2
+
+
+Download both files and place them in inputs folder
